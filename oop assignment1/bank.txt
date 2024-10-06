@@ -1,0 +1,7 @@
+Account Number is 92867
+Account Holder Name wajiha naseem
+Balance 6000
+------------------------------------------------------
+Account Number is 987
+Account Holder Name wajiha
+Balance 5000
